@@ -1,60 +1,59 @@
-# Hi 👋, I'm Swathi Rajana
+# 👋 Hi, I'm Swathi Rajana
 
-### 💻 Computer Science & Data Science Graduate | AI & Full-Stack Developer | Cybersecurity Enthusiast
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Science+%26+Data+Science+Graduate;AI+%26+Full-Stack+Developer;Cybersecurity+Enthusiast;Always+Learning+%26+Building+🚀" />
 
-Welcome to my GitHub profile! 🚀
-
-I'm a passionate technology enthusiast interested in building practical applications using **AI, web development, and cybersecurity**. I enjoy exploring new technologies, working on real-world projects, and continuously improving my technical skills.
-
----
-
-## 👩‍💻 About Me
-
-* 🎓 Computer Science & Data Science Graduate
-* 💡 Interested in **Artificial Intelligence, Full-Stack Development & Cybersecurity**
-* 🌱 Currently improving my skills in **Python, React, JavaScript, SQL & AI**
-* 🔐 Exploring **Cybersecurity and Ethical Hacking**
-* 🤖 Interested in building **AI-powered applications and chatbots**
-* 💼 Open to **entry-level opportunities and internships**
-* 📍 India
+<p align="center">
+  <a href="https://github.com/Rajanaswathi">
+    <img src="https://img.shields.io/github/followers/Rajanaswathi?label=Followers&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/Rajanaswathi?tab=repositories">
+    <img src="https://img.shields.io/github/stars/Rajanaswathi?label=Stars&style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
-## 🛠️ Technical Skills
+## 🚀 About Me
 
-### Programming & Development
+🎓 Computer Science & Data Science Graduate from **KIET Group of Institutions**
 
-* Python
-* JavaScript
-* HTML
-* CSS
-* React.js
-* SQL
+💻 Interested in **Artificial Intelligence, Full-Stack Development & Cybersecurity**
 
-### AI & Data
+🤖 Exploring **Generative AI, AI-powered applications and chatbots**
 
-* Artificial Intelligence
-* Generative AI
-* Chatbots
-* Data Analysis
-* API Integration
+🔐 Learning **Cybersecurity, Ethical Hacking and Network Security**
 
-### Cybersecurity
+🌱 Currently strengthening my skills in **Python, React.js, JavaScript, SQL and AI**
 
-* Ethical Hacking
-* Network Security
-* Network Traffic Monitoring
-* Linux / Kali Linux
-* Basic Web Security
+💼 Open to **entry-level opportunities, internships and collaborative projects**
 
-### Tools & Technologies
+---
 
-* Git & GitHub
-* VS Code
-* Firebase
-* Flask
-* MongoDB
-* OpenCV
+## 🛠️ Tech Stack
+
+### 💻 Programming & Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,html,css,react" />
+</p>
+
+### 🤖 AI & Data
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</p>
+
+**Areas:** Artificial Intelligence • Generative AI • Chatbots • Data Analysis • API Integration
+
+### 🔐 Cybersecurity
+
+**Kali Linux • Network Security • Ethical Hacking • Network Traffic Analysis • Web Security**
+
+### 🧰 Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,flask,mongodb,firebase" />
+</p>
 
 ---
 
@@ -62,17 +61,17 @@ I'm a passionate technology enthusiast interested in building practical applicat
 
 ### 🤖 AI Education Platform
 
-An AI-powered educational platform designed to help students access learning resources and interact with an intelligent chatbot.
+An AI-powered educational platform designed to support students with learning resources and an interactive chatbot.
 
-**Technologies:** React.js, JavaScript, Gemini API, APIs
+**Tech:** React.js • JavaScript • Gemini API • AI
 
 ---
 
 ### 🏥 Healthcare Chatbot
 
-A healthcare-focused chatbot website designed to provide users with helpful information through an interactive conversational interface.
+A conversational healthcare web application designed to provide users with interactive information and assistance.
 
-**Technologies:** HTML, CSS, JavaScript, AI APIs
+**Tech:** HTML • CSS • JavaScript • AI APIs
 
 ---
 
@@ -80,23 +79,39 @@ A healthcare-focused chatbot website designed to provide users with helpful info
 
 A computer-vision-based attendance system that identifies registered faces and automatically records attendance.
 
-**Technologies:** Python, OpenCV, Face Recognition
+**Tech:** Python • OpenCV • Face Recognition
 
 ---
 
-### 🌐 Exam Preparation Assistant
+### 📚 Exam Preparation Assistant
 
-A full-stack chatbot application designed to help students prepare for examinations by providing interactive assistance and learning support.
+A full-stack AI chatbot designed to assist students with examination preparation and learning support.
 
-**Technologies:** Python, Flask, React.js, JavaScript
+**Tech:** React.js • Python • Flask • JavaScript
 
 ---
 
 ### 🔐 Network Traffic Monitor
 
-A cybersecurity project for monitoring and analyzing network traffic and packets.
+A cybersecurity project for capturing and analyzing network packets and monitoring network activity.
 
-**Technologies:** Python, Scapy, Flask, Pandas, Kali Linux
+**Tech:** Python • Scapy • Flask • Pandas • Kali Linux
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rajanaswathi&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajanaswathi&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Rajanaswathi&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
@@ -115,26 +130,37 @@ Cloud & APIs
 
 ---
 
-## 🎯 My Goals
+## 🎯 Goals
 
-* Build impactful real-world applications
-* Strengthen my software development skills
-* Explore AI and emerging technologies
-* Gain practical cybersecurity experience
-* Contribute to open-source projects
-* Grow as a technology professional
-
----
-
-## 🤝 Let's Connect
-
-📧 **Email:** [swathirajana099@gmail.com]
-💼 **LinkedIn:** https://www.linkedin.com/in/swathi-rajana-a935a3293/
+* 🚀 Build practical real-world applications
+* 🤖 Explore AI and Generative AI
+* 💻 Improve full-stack development skills
+* 🔐 Gain hands-on cybersecurity experience
+* 🌎 Contribute to open-source projects
+* 📈 Grow as a technology professional
 
 ---
 
-### ⭐ Thanks for visiting my profile!
+## 🤝 Connect With Me
 
-Feel free to explore my repositories and connect with me.
-**Let's learn, build, and grow together! 🚀**
+<p align="center">
 
+<a href="https://github.com/Rajanaswathi">
+<img src="https://img.shields.io/badge/GitHub-Rajanaswathi-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/swathi-rajana-a935a3293/">
+<img src="https://img.shields.io/badge/LinkedIn-Swathi%20Rajana-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <b>✨ Keep Learning. Keep Building. Keep Growing. 🚀</b>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
