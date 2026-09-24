@@ -1,15 +1,18 @@
 # 👋 Hi, I'm Swathi Rajana
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Science+%26+Data+Science+Graduate;AI+%26+Full-Stack+Developer;Cybersecurity+Enthusiast;Always+Learning+%26+Building+🚀" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Computer+Science+%26+Data+Science+Graduate;AI+%26+Full-Stack+Developer;Cybersecurity+Enthusiast;Always+Learning+%26+Building" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://github.com/Rajanaswathi">
-    <img src="https://img.shields.io/github/followers/Rajanaswathi?label=Followers&style=for-the-badge" />
+    <img src="https://img.shields.io/github/followers/Rajanaswathi?label=Followers&style=for-the-badge" alt="GitHub Followers" />
   </a>
   <a href="https://github.com/Rajanaswathi?tab=repositories">
-    <img src="https://img.shields.io/github/stars/Rajanaswathi?label=Stars&style=for-the-badge" />
+    <img src="https://img.shields.io/github/stars/Rajanaswathi?label=Stars&style=for-the-badge" alt="GitHub Stars" />
   </a>
 </p>
+
 
 ---
 
